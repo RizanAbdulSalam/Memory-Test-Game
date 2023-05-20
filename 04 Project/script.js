@@ -49,7 +49,6 @@ function failed(){
     },800)
 }
 
-
 function reset(){
     isFlipped = false;
     firstCard = null;
